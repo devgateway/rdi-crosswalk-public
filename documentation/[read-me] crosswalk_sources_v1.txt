@@ -1,0 +1,115 @@
+World Bank HealthStats
+-------------------
+Source: http://datatopics.worldbank.org/hnp/
+Public: Yes
+Indicators: 322
+Metadata: Included in files (also here: http://databank.worldbank.org/Data/Views/reports/metadataview.aspx)
+Point of contact: data@worldbank.org
+Gathering process: [...]
+Local file: "World Bank healthstats health_2011.xlsx"
+Description: All indicators for all countries (247) for single example year (2011)
+
+World Bank Microdata Library
+-------------------
+Source: http://microdata.worldbank.org/index.php/catalog/central
+Public: Yes (some datasets restricted)
+Indicators: Almost 1900 different datasets from different sources; health-related collections with counts are included below:
+	1. WHO (72): http://microdata.worldbank.org/index.php/catalog/WHO (only World Health Surveys from 2003 for individual countries; WHO link here: http://www.who.int/healthinfo/survey/en/)
+	2. DHS (262): http://microdata.worldbank.org/index.php/catalog/dhs (DHS link here: http://dhsprogram.com/data/available-datasets.cfm)
+	3. Global Health Data Exchange (GHDx) (21): http://microdata.worldbank.org/index.php/catalog/ghdx (better and more data here: http://ghdx.healthdata.org/)
+	4. Other limited options (mostly single country/ single year datasets)
+Point of contact: data@worldbank.org
+Gathering process: [...]
+Description: Limited source of external datasets; better to track them down from the original sources
+
+World Bank World Development Indicators
+-------------------
+Source: http://data.worldbank.org/data-catalog/world-development-indicators
+Public: Yes
+Indicators: 122
+Metadata: Included in files (also here: http://databank.worldbank.org/data/views/reports/metadataview.aspx)
+Point of contact: data@worldbank.org
+Gathering process: [...]
+Local file: "World Bank wdi health_2011.xlsx"
+Description: All indicators for all countries (214) for single example year (2011)
+
+WHO Global Health Observatory (GHO)
+-------------------
+Source: http://www.who.int/gho/en/
+Public: Yes
+Indicators: seriously thousands...
+Metadata: http://apps.who.int/gho/data/node.metadata.18?lang=en also, here is a link that explains how to extract raw files from the website http://apps.who.int/gho/data/node.resources.examples?lang=en
+Point of contact: gho_info@who.int
+Gathering process: [...]
+Local file: "META_WHO dimensions.xlsx", "META_WHO GHO subcat.xlsx", "META_WHO GHO sub_subcat.xlsx"
+Description: The first file includes names of the "dimensions" of available data categories and filters, the second is a list of variable categories, and the third is a list of variables measured. Other dimensions listed in the "META_WHO dimensions.xlsx" file such as "COUNTRY" allow for further data filtering.
+
+WHO Mortality Database
+-------------------
+Source: http://www.who.int/healthinfo/statistics/mortality_rawdata/en/
+Public: Yes
+Indicators: 39
+Metadata: Yes
+Point of contact: gho_info@who.int
+Gathering process: [...]
+Local file: "META_WHO mortality.xlsx"
+Description: I've included the variables listed in the metadata as well as the codes for country and cause of death
+
+Global Fund (overall)
+-------------------
+Source: http://web-api.theglobalfund.org/Explorer/Index/
+Public: Sort of
+Indicators: 3 (top 3)
+Metadata: Included in exported spreadsheet
+Point of contact: unknown
+Gathering process: [...]
+Local file: "META_Global Fund1.xlsx"
+Description: Only the top three "Cumulative Key Results"
+
+Global Fund Monitoring and Evaluation
+-------------------
+Source: http://www.theglobalfund.org/en/me/documents/indicatorguidance/
+Public: Yes
+Indicators: 63 (HIV), 35 (TB), 38 (Malaria)
+Metadata: Included with spreadsheets
+Point of contact: gmp@theglobalfund.org
+Gathering process: [...]
+Local file: "META_Global Fund2 hiv.xlsx", "META_Global Fund2 tb.xlsx", "META_Global Fund2 malaria.xlsx"
+Description: These are indicators that the Global Fund requires for their grant applications. Actual data is likely spread across individual grants.
+
+Indicator Data API (DHS)
+-------------------
+Source: http://api.dhsprogram.com/#/introdata.html
+Public: Yes
+Indicators: about 1460
+Metadata: included in the indicator data
+Point of contact: api@dhsprogram.com
+Gathering process: See DHS documentation (by country)
+Local file: "META_DHS indicators.xlsx"
+Description: Shows all DHS indicators used on their surveys (note: it's the same data from their official website, just easier to download)
+
+USAID Document Experience Clearinghouse
+-------------------
+Source: https://dec.usaid.gov/dec/content/search.aspx
+Public: Yes
+Indicators: Not really
+Metadata: For individual projects
+Point of contact: ksc@usaid.gov
+Gathering process: Final evaluation reports/ results for individual projects/ grants
+Local file: None
+Description: Database of project reports
+
+****************
+http://ghdx.healthdata.org/ (list of datasets from other organizations)
+****************
+
+[ORGANIZATION]
+-------------------
+Source:
+Public:
+Indicators:
+Metadata:
+Point of contact:
+Gathering process:
+Local file: "..."
+Description:

@@ -1,0 +1,158 @@
+﻿RDI donor macro priority indicator lists
+
+
+
+
+AfDB
+
+Found here: Dataportal: http://dataportal.afdb.org/Default.aspx  
+http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/African_Statistical_Yearbook_2015.pdf
+- 
+compiled from country government data
+- 
+"The Yearbook series is a result of joint efforts by major African regional organizations to set up a joint data collection mechanism of economic and social data on African countries as well as the development of a common harmonized database."
+
+
+
+
+DHS (and HIV/AIDS)
+
+Found here: http://dhsprogram.com/data/Survey-Indicators.cfm
+- 
+http://dhsprogram.com/pubs/pdf/DHSG1/Guide_to_DHS_Statistics_29Oct2012_DHSG1.pdf
+"DHS surveys provide information on important health, nutrition, and demographic indicators in a specific country. DHS surveys are nationally representative population-based surveys with large sample sizes. The indicators are presented in terms of national level statistics and for population subgroups such as those defined by age, education, marital status, economic status, urban/rural residence and region of the country."
+- 
+
+HIV/AIDS 
+Found here: http://hivdata.measuredhs.com/ind_tbl.cfm
+- 
+"Currently, the main sources of HIV/AIDS indicators in the database are the Demographic and Health Surveys (DHS), the Multiple Indicator Cluster Surveys (MICS), the Reproductive Health Surveys (RHS), the Sexual Behavior Surveys (SBS), and Behavioral Surveillance Surveys (BSS). The database is designed to be global in scope, eventually covering all countries for which indicators are available" 
+(http://hivdata.measuredhs.com/)
+
+
+
+DANIDA
+
+Found here: 	Health: http://openaid.um.dk/en/sectors/120 
+		Agriculture: http://openaid.um.dk/en/sectors/311
+Note: Uses MDG/SDGs as priority macro indicators. 
+
+DFATD
+
+Found here: Report on Plans and Priorities 2014-2015: http://www.international.gc.ca/department-ministere/plans/rpp/rpp_1415.aspx?lang=eng
+(vague outcomes defined by country: http://www.international.gc.ca/development-developpement/aidtransparency-transparenceaide/country-strategies-pays.aspx?lang=eng)
+
+
+
+DFID
+
+Found here: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446150/DFID-external-results-Sep_2014.pdf
+- compiled in-house and from various multilateral sources (see document)
+-
+"The framework addresses both of these issues: firstly by identifying a core subset of results which DFID will seek to influence directly over the next 4 years, and secondly by identifying a range of key performance indicators that provide closer to real time data on DFID’s operational effectiveness and organisational efficiency.  The indicators are aligned with DFID’s strategic priorities as set out in its Business Plan" (2).
+Found here: http://webarchive.nationalarchives.gov.uk/20151013142002/http://transparency.number10.gov.uk/business-plan/3/63
+
+
+
+Gates
+
+(not directly found)
+Found here: http://www.gatesfoundation.org/What-We-Do/
+Macro indicators were scraped from the "What we do" section.
+About grants: http://www.gatesfoundation.org/Who-We-Are/Resources-and-Media/Annual-Reports/Annual-Report-2014
+
+Global Fund
+
+Found here (broken link): http://www.theglobalfund.org/documents/publications/annual_reports/Corporate_2015ResultsReport_Report_en/
+- compiled in-house
+
+
+
+IFAD
+
+Found here: http://www.ifad.org/operations/rims/handbook/e.pdf
+- compiled by project
+- 
+"The Results and Impact Management System (RIMS) is the framework adopted by IFAD for measuring and reporting the results and impact of the projects it finances" (v).
+
+
+
+MCC
+
+Found here: https://www.mcc.gov/sectors and https://mcc.gov/our-impact/m-and-e
+Note: Most indicators are related to MCC's projects and calculated by them. 
+
+
+
+PEPFAR
+
+Found here: http://www.pepfar.gov/documents/organization/238189.xlsx
+- compiled by UNAIDS, WHO, and in-house
+
+
+
+SIDA
+
+(not found) 
+They seem to be interested in their portfolio and its impact, not on macro indicators. http://www.sida.se/globalassets/sida/eng/publications/c200595_portfolio_health_tema_2014_c3.pdf
+
+UN
+Found here: http://mdgs.un.org/unsd/mi/wiki/MainPage.ashx  -  Official MDG indicators list 
+SDGs indicators: Insider job - Preliminary indicators
+
+
+UNDP
+
+Found here: http://www.undp.org/content/dam/undp/library/corporate/HDR/HDR%202015/HumanDevelopmentReport_EN.pdf
+- 
+compiled from various sources including World Bank, UNESCO, and in-house
+- "Human Development Index (HDI): A composite index measuring average achievement in three basic dimensions of human development—a long and healthy life, knowledge and a decent standard of living. See Technical note 1 at http://hdr.undp.org/en for details on how the HDI is calculated."
+
+
+
+UNICEF (and MICS)
+Found here: http://www.unicef.org/statistics/index_24296.html
+- additional indicators here: http://data.unicef.org/# (note: several links broken)
+- 
+"UNICEF headquarters maintains a series of global databases on key indicators for monitoring the situation of children and women. This compilation of data is facilitated by the wide network of UNICEF field offices which submit updated information to Headquarters on an annual basis. These data are complemented by information obtained through the ongoing collaboration with other relevant UN organizations, as well as through other sources such as the Multiple Indicator Cluster Surveys (MICS) and the Demographic and Health Surveys (DHS)."
+- 
+NOTE: MICS here: http://mics.unicef.org/tools#survey-design
+
+
+
+USAID 
+Referenced here: https://www.usaid.gov/sites/default/files/documents/1870/203.pdf (page 36)
+- Link is broken; should be this: http://www.state.gov/f/indicators/
+- "Performance target and result data are collected against these indicators on an annual basis, and reported to the Office of U.S. Foreign Assistance Resources. Indicator data, combined with expert analysis from the field, evaluation information, and strategic policy priority considerations can be used to inform broad-based strategic budget and planning decisions to ensure that foreign assistance resources are focused on moving countries forward and transparently demonstrating the basis upon which allocations are made."
+
+
+
+World Bank
+
+Found here: http://data.worldbank.org/indicator
+Agriculture and Rural Development: http://data.worldbank.org/topic/agriculture-and-rural-development
+Health: http://data.worldbank.org/topic/health
+
+WHO/GHO
+Found here: http://apps.who.int/gho/data/node.imr
+- 
+Top 100 indicators: http://www.who.int/healthinfo/indicators/2015/en/
+"The GHO "By indicator" provides a list of all indicators for which the Observatory contains data. Each indicator page consists of a link to the definition of the indicator and a series of links to the various data views that contain information about the selected indicator."
+
+
+
+FAO (World Agricultural Census)
+
+Found here: http://www.fao.org/3/a-i4913e.pdf (pages 54-60)
+- 
+Note: FAO collects more data by country, but these are the general world census indicators (for agriculture)
+
+
+Food Security indicators found here: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwiuvZbfq__KAhXGrB4KHeRRCIMQFggjMAE&url=http%3A%2F%2Fwww.fao.org%2Ffileadmin%2Ftemplates%2Fess%2Ffoodsecurity%2FFood_Security_Indicators.xlsx&usg=AFQjCNHvNJLuxHnt-75vJJJ38G5LhHpg7A&sig2=F8aqOfWDLCvJWVva9-5o8Q&bvm=bv.114195076,bs.1,d.eWE&cad=rja
+Statistical Programme of work 2014-2015 found here: http://www.fao.org/3/a-i4045e.pdf
+
+WFP
+
+Found here: http://documents.wfp.org/stellent/groups/public/documents/resources/wfp257624.pdf
+- 
+Note: had to Google it (can't find it on WFP site) (found it mentioned in this document: http://documents.wfp.org/stellent/groups/public/documents/eb/wfpdoc062522.pdf (page 25, item 64))
