@@ -1,0 +1,954 @@
+{
+"name": "Total goods and services delivered",
+"children": [
+{
+"name": "Goods constructed",
+"children": [
+{
+"name": "Health goods constructed",
+"children": [
+{
+"name": "Latrines constructed",
+"children": [
+{
+"name": "Latrines constructed by IFAD",
+"years": [
+{
+"year": 2016,
+"size": 307
+}
+]
+},
+{
+"name": "Latrines constructed by USAID",
+"years": [
+{
+"year": 2013,
+"size": 4450
+}
+]
+},
+{
+"name": "Latrines constructed by WB",
+"years": [
+{
+"year": 2000,
+"size": 6000
+},
+{
+"year": 2003,
+"size": 6254
+},
+{
+"year": 2010,
+"size": 4490
+},
+{
+"year": 2016,
+"size": 200
+}
+]
+}
+]
+},
+{
+"name": "Toilets constructed",
+"children": [
+{
+"name": "Toilets constructed by WB",
+"years": [
+{
+"year": 2003,
+"size": 8207
+},
+{
+"year": 2004,
+"size": 1185
+},
+{
+"year": 2016,
+"size": 346
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Infrastructure built",
+"children": [
+{
+"name": "Health clinics constructed",
+"children": [
+{
+"name": "Health clinics constructed by DFID",
+"years": [
+{
+"year": 2015,
+"size": 4
+}
+]
+},
+{
+"name": "Health clinics constructed by Global Fund",
+"years": [
+{
+"year": 2012,
+"size": 3
+},
+{
+"year": 2013,
+"size": 408
+}
+]
+},
+{
+"name": "Health clinics constructed by USAID",
+"years": [
+{
+"year": 2010,
+"size": 3
+}
+]
+},
+{
+"name": "Health clinics constructed by WB",
+"years": [
+{
+"year": 2011,
+"size": 276
+}
+]
+}
+]
+},
+{
+"name": "Housing built",
+"children": [
+{
+"name": "Housing built by WB",
+"years": [
+{
+"year": 2000,
+"size": 15
+},
+{
+"year": 2001,
+"size": 20
+},
+{
+"year": 2003,
+"size": 19
+}
+]
+}
+]
+},
+{
+"name": "Sanitation facilities constructed",
+"children": [
+{
+"name": "Sanitation facilities constructed by UNICEF",
+"years": [
+{
+"year": 2012,
+"size": 4762
+}
+]
+},
+{
+"name": "Sanitation facilities constructed by WB",
+"years": [
+{
+"year": 2003,
+"size": 2
+},
+{
+"year": 2016,
+"size": 75
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Goods distributed",
+"children": [
+{
+"name": "Medical materials distributed",
+"children": [
+{
+"name": "Bednets distributed",
+"children": [
+{
+"name": "Bednets distributed by DFID",
+"years": [
+{
+"year": 2000,
+"size": 2350000
+},
+{
+"year": 2012,
+"size": 12.8
+},
+{
+"year": 2015,
+"size": 6e+05
+}
+]
+},
+{
+"name": "Bednets distributed by Global Fund",
+"years": [
+{
+"year": 2008,
+"size": 342990
+},
+{
+"year": 2012,
+"size": 4260850
+}
+]
+},
+{
+"name": "Bednets distributed by USAID",
+"years": [
+{
+"year": 2000,
+"size": 4004442
+}
+]
+},
+{
+"name": "Bednets distributed by WB",
+"years": [
+{
+"year": 2013,
+"size": 1550000
+}
+]
+}
+]
+},
+{
+"name": "Condoms distributed",
+"children": [
+{
+"name": "Condoms distributed by Global Fund",
+"years": [
+{
+"year": 2015,
+"size": 1.1e+07
+}
+]
+}
+]
+},
+{
+"name": "HIV goods distributed",
+"children": [
+{
+"name": "HIV goods distributed by Global Fund",
+"years": [
+{
+"year": 2008,
+"size": 411541
+},
+{
+"year": 2013,
+"size": 7781
+}
+]
+},
+{
+"name": "HIV goods distributed by WB",
+"years": [
+{
+"year": 2004,
+"size": 207
+}
+]
+}
+]
+},
+{
+"name": "Malaria goods distributed",
+"children": [
+{
+"name": "Malaria goods distributed by Global Fund",
+"years": [
+{
+"year": 2008,
+"size": 544
+},
+{
+"year": 2016,
+"size": 122622
+}
+]
+},
+{
+"name": "Malaria goods distributed by USAID",
+"years": [
+{
+"year": 2000,
+"size": 933
+}
+]
+}
+]
+},
+{
+"name": "Medical equipment distributed",
+"children": [
+{
+"name": "Medical equipment distributed by DFID",
+"years": [
+{
+"year": 2015,
+"size": 1440000
+}
+]
+},
+{
+"name": "Medical equipment distributed by USAID",
+"years": [
+{
+"year": 2000,
+"size": 102
+},
+{
+"year": 2011,
+"size": 80
+}
+]
+},
+{
+"name": "Medical equipment distributed by WB",
+"years": [
+{
+"year": 2008,
+"size": 2
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Other goods distributed",
+"children": [
+{
+"name": "Education materials distributed",
+"children": [
+{
+"name": "Education materials distributed by IFAD",
+"years": [
+{
+"year": 2014,
+"size": 80073
+},
+{
+"year": 2016,
+"size": 12885
+}
+]
+},
+{
+"name": "Education materials distributed by WFP",
+"years": [
+{
+"year": 2010,
+"size": 522961
+}
+]
+}
+]
+},
+{
+"name": "Food goods distributed",
+"children": [
+{
+"name": "Food goods distributed by WFP",
+"years": [
+{
+"year": 2010,
+"size": 263676
+},
+{
+"year": 2014,
+"size": 3000
+}
+]
+}
+]
+},
+{
+"name": "Sanitation goods distributed",
+"children": [
+{
+"name": "Sanitation goods distributed by UNICEF",
+"years": [
+{
+"year": 2011,
+"size": 2000
+}
+]
+},
+{
+"name": "Sanitation goods distributed by WB",
+"years": [
+{
+"year": 2003,
+"size": 2573
+},
+{
+"year": 2004,
+"size": 24
+}
+]
+}
+]
+},
+{
+"name": "School meals distributed",
+"children": [
+{
+"name": "School meals distributed by WB",
+"years": [
+{
+"year": 2009,
+"size": 477713
+}
+]
+},
+{
+"name": "School meals distributed by WFP",
+"years": [
+{
+"year": 2010,
+"size": 41234
+},
+{
+"year": 2016,
+"size": 181
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Research and policy",
+"children": [
+{
+"name": "Policy-oriented developments",
+"children": [
+{
+"name": "Education groups formed",
+"children": [
+{
+"name": "Education groups formed by USAID",
+"years": [
+{
+"year": 2014,
+"size": 15
+}
+]
+}
+]
+},
+{
+"name": "Management committees formed",
+"children": [
+{
+"name": "Management committees formed by WB",
+"years": [
+{
+"year": 2004,
+"size": 1312
+}
+]
+}
+]
+},
+{
+"name": "Policies formed",
+"children": [
+{
+"name": "Policies formed by UNICEF",
+"years": [
+{
+"year": 2012,
+"size": 1
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Research conducted",
+"children": [
+{
+"name": "Studies conducted",
+"children": [
+{
+"name": "Studies conducted by DANIDA",
+"years": [
+{
+"year": 2014,
+"size": 13562
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Services provided",
+"children": [
+{
+"name": "Funding allocated",
+"children": [
+{
+"name": "Grants awarded",
+"children": [
+{
+"name": "Grants awarded by USAID",
+"years": [
+{
+"year": 2000,
+"size": 16
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Medical services provided",
+"children": [
+{
+"name": "People receiving HIV treatments",
+"children": [
+{
+"name": "People receiving HIV treatments by Global Fund",
+"years": [
+{
+"year": 2007,
+"size": 19279
+},
+{
+"year": 2015,
+"size": 90979
+}
+]
+},
+{
+"name": "People receiving HIV treatments by WB",
+"years": [
+{
+"year": 2008,
+"size": 87947
+}
+]
+}
+]
+},
+{
+"name": "People receiving Malaria treatments",
+"children": [
+{
+"name": "People receiving Malaria treatments by DFID",
+"years": [
+{
+"year": 2015,
+"size": 556000
+}
+]
+},
+{
+"name": "People receiving Malaria treatments by Global Fund",
+"years": [
+{
+"year": 2008,
+"size": 4186
+},
+{
+"year": 2012,
+"size": 870048
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Trainings conducted",
+"children": [
+{
+"name": "Capacity-building trainings conducted",
+"children": [
+{
+"name": "Educators trained",
+"children": [
+{
+"name": "Educators trained by IFAD",
+"years": [
+{
+"year": 2015,
+"size": 13
+}
+]
+},
+{
+"name": "Educators trained by UNDP",
+"years": [
+{
+"year": 2010,
+"size": 37
+}
+]
+},
+{
+"name": "Educators trained by WB",
+"years": [
+{
+"year": 2008,
+"size": 36120
+}
+]
+}
+]
+},
+{
+"name": "Lab technicians trained",
+"children": [
+{
+"name": "Lab technicians trained by USAID",
+"years": [
+{
+"year": 2000,
+"size": 23
+},
+{
+"year": 2011,
+"size": 1869
+}
+]
+}
+]
+},
+{
+"name": "Leadership trainees trained",
+"children": [
+{
+"name": "Leadership trainees trained by AfDB",
+"years": [
+{
+"year": 2016,
+"size": 271
+}
+]
+},
+{
+"name": "Leadership trainees trained by IFAD",
+"years": [
+{
+"year": 2015,
+"size": 2712
+}
+]
+}
+]
+},
+{
+"name": "People trained in management",
+"children": [
+{
+"name": "People trained in management by Global Fund",
+"years": [
+{
+"year": 2008,
+"size": 989
+},
+{
+"year": 2012,
+"size": 9465
+}
+]
+},
+{
+"name": "People trained in management by UNDP",
+"years": [
+{
+"year": 2010,
+"size": 734
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Educational trainings conducted",
+"children": [
+{
+"name": "People trained in food security",
+"children": [
+{
+"name": "People trained in food security by WFP",
+"years": [
+{
+"year": 2016,
+"size": 40724
+}
+]
+}
+]
+},
+{
+"name": "People trained in health practices",
+"children": [
+{
+"name": "People trained in health practices by Global Fund",
+"years": [
+{
+"year": 2008,
+"size": 8135
+}
+]
+},
+{
+"name": "People trained in health practices by USAID",
+"years": [
+{
+"year": 2000,
+"size": 80
+},
+{
+"year": 2010,
+"size": 6
+},
+{
+"year": 2014,
+"size": 1059
+}
+]
+},
+{
+"name": "People trained in health practices by WB",
+"years": [
+{
+"year": 2000,
+"size": 140
+},
+{
+"year": 2009,
+"size": 24
+},
+{
+"year": 2016,
+"size": 2115
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Medical practice trainings conducted",
+"children": [
+{
+"name": "Clinic staff trained",
+"children": [
+{
+"name": "Clinic staff trained by USAID",
+"years": [
+{
+"year": 2010,
+"size": 3
+},
+{
+"year": 2011,
+"size": 157
+}
+]
+}
+]
+},
+{
+"name": "Midwives trained",
+"children": [
+{
+"name": "Midwives trained by JICA",
+"years": [
+{
+"year": 2015,
+"size": 203
+}
+]
+},
+{
+"name": "Midwives trained by USAID",
+"years": [
+{
+"year": 2010,
+"size": 73
+}
+]
+}
+]
+},
+{
+"name": "Nurses trained",
+"children": [
+{
+"name": "Nurses trained by USAID",
+"years": [
+{
+"year": 2014,
+"size": 200
+}
+]
+}
+]
+},
+{
+"name": "Other health professionals trained",
+"children": [
+{
+"name": "Other health professionals trained by Global Fund",
+"years": [
+{
+"year": 2013,
+"size": 922
+}
+]
+},
+{
+"name": "Other health professionals trained by JICA",
+"years": [
+{
+"year": 2015,
+"size": 185
+}
+]
+},
+{
+"name": "Other health professionals trained by USAID",
+"years": [
+{
+"year": 2000,
+"size": 4004
+},
+{
+"year": 2014,
+"size": 24
+}
+]
+},
+{
+"name": "Other health professionals trained by WB",
+"years": [
+{
+"year": 2009,
+"size": 1280
+},
+{
+"year": 2013,
+"size": 3853
+}
+]
+}
+]
+},
+{
+"name": "People trained in HIV treatment",
+"children": [
+{
+"name": "People trained in HIV treatment by Global Fund",
+"years": [
+{
+"year": 2007,
+"size": 257
+},
+{
+"year": 2013,
+"size": 5376
+}
+]
+},
+{
+"name": "People trained in HIV treatment by WB",
+"years": [
+{
+"year": 2008,
+"size": 480
+}
+]
+}
+]
+},
+{
+"name": "People trained in Malaria treatments",
+"children": [
+{
+"name": "People trained in Malaria treatments by DFID",
+"years": [
+{
+"year": 2015,
+"size": 16200000
+}
+]
+},
+{
+"name": "People trained in Malaria treatments by Global Fund",
+"years": [
+{
+"year": 2008,
+"size": 12770
+},
+{
+"year": 2012,
+"size": 36079
+}
+]
+},
+{
+"name": "People trained in Malaria treatments by USAID",
+"years": [
+{
+"year": 2000,
+"size": 17227.3
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}

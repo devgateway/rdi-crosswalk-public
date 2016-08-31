@@ -1,0 +1,1710 @@
+{
+"name": "Total goods and services delivered",
+"children": [
+{
+"name": "Goods constructed",
+"children": [
+{
+"name": "Agricultural developments",
+"children": [
+{
+"name": "Land developed",
+"children": [
+{
+"name": "Land developed by AfDB",
+"years": [
+{
+"year": 2000,
+"size": 24300
+},
+{
+"year": 2008,
+"size": 2500
+}
+]
+},
+{
+"name": "Land developed by IFAD",
+"years": [
+{
+"year": 2004,
+"size": 23
+},
+{
+"year": 2006,
+"size": 80
+}
+]
+},
+{
+"name": "Land developed by USAID",
+"years": [
+{
+"year": 2014,
+"size": 3
+}
+]
+},
+{
+"name": "Land developed by WB",
+"years": [
+{
+"year": 2001,
+"size": 429
+},
+{
+"year": 2003,
+"size": 115
+},
+{
+"year": 2004,
+"size": 335
+},
+{
+"year": 2009,
+"size": 502
+},
+{
+"year": 2011,
+"size": 1611
+},
+{
+"year": 2016,
+"size": 1725.9
+}
+]
+},
+{
+"name": "Land developed by WFP",
+"years": [
+{
+"year": 2016,
+"size": 67
+}
+]
+}
+]
+},
+{
+"name": "Markets constructed",
+"children": [
+{
+"name": "Markets constructed by AfDB",
+"years": [
+{
+"year": 2002,
+"size": 13
+}
+]
+},
+{
+"name": "Markets constructed by IFAD",
+"years": [
+{
+"year": 2016,
+"size": 4
+}
+]
+},
+{
+"name": "Markets constructed by WB",
+"years": [
+{
+"year": 2004,
+"size": 348
+},
+{
+"year": 2011,
+"size": 39
+}
+]
+}
+]
+},
+{
+"name": "Nurseries constructed",
+"children": [
+{
+"name": "Nurseries constructed by WB",
+"years": [
+{
+"year": 2009,
+"size": 10
+},
+{
+"year": 2011,
+"size": 22
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Infrastructure built",
+"children": [
+{
+"name": "Bridges built",
+"children": [
+{
+"name": "Bridges built by WB",
+"years": [
+{
+"year": 2001,
+"size": 3
+},
+{
+"year": 2008,
+"size": 6
+}
+]
+}
+]
+},
+{
+"name": "Businesses constructed",
+"children": [
+{
+"name": "Businesses constructed by WB",
+"years": [
+{
+"year": 2003,
+"size": 1
+},
+{
+"year": 2011,
+"size": 14
+}
+]
+}
+]
+},
+{
+"name": "Dams built",
+"children": [
+{
+"name": "Dams built by AfDB",
+"years": [
+{
+"year": 2009,
+"size": 1
+}
+]
+},
+{
+"name": "Dams built by IFAD",
+"years": [
+{
+"year": 2006,
+"size": 67
+}
+]
+},
+{
+"name": "Dams built by WB",
+"years": [
+{
+"year": 2004,
+"size": 27
+}
+]
+},
+{
+"name": "Dams built by WFP",
+"years": [
+{
+"year": 2016,
+"size": 45
+}
+]
+}
+]
+},
+{
+"name": "Educational facilities constructed",
+"children": [
+{
+"name": "Educational facilities constructed by IFAD",
+"years": [
+{
+"year": 2016,
+"size": 72
+}
+]
+},
+{
+"name": "Educational facilities constructed by WB",
+"years": [
+{
+"year": 2011,
+"size": 458
+}
+]
+}
+]
+},
+{
+"name": "Health clinics constructed",
+"children": [
+{
+"name": "Health clinics constructed by IFAD",
+"years": [
+{
+"year": 2016,
+"size": 6
+}
+]
+}
+]
+},
+{
+"name": "Housing built",
+"children": [
+{
+"name": "Housing built by WB",
+"years": [
+{
+"year": 2000,
+"size": 15
+},
+{
+"year": 2001,
+"size": 20
+},
+{
+"year": 2003,
+"size": 19
+}
+]
+}
+]
+},
+{
+"name": "Other facilities constructed",
+"children": [
+{
+"name": "Other facilities constructed by AfDB",
+"years": [
+{
+"year": 2002,
+"size": 17
+}
+]
+},
+{
+"name": "Other facilities constructed by IFAD",
+"years": [
+{
+"year": 2015,
+"size": 24
+}
+]
+},
+{
+"name": "Other facilities constructed by USAID",
+"years": [
+{
+"year": 2013,
+"size": 2
+}
+]
+},
+{
+"name": "Other facilities constructed by WB",
+"years": [
+{
+"year": 2000,
+"size": 6
+},
+{
+"year": 2004,
+"size": 19
+}
+]
+}
+]
+},
+{
+"name": "Other infrastructure built",
+"children": [
+{
+"name": "Other infrastructure built by AfDB",
+"years": [
+{
+"year": 2016,
+"size": 9
+}
+]
+},
+{
+"name": "Other infrastructure built by IFAD",
+"years": [
+{
+"year": 2016,
+"size": 16
+}
+]
+},
+{
+"name": "Other infrastructure built by WB",
+"years": [
+{
+"year": 2004,
+"size": 60860
+}
+]
+}
+]
+},
+{
+"name": "Roads constructed",
+"children": [
+{
+"name": "Roads constructed by AfDB",
+"years": [
+{
+"year": 2000,
+"size": 216.13
+},
+{
+"year": 2016,
+"size": 846
+}
+]
+},
+{
+"name": "Roads constructed by IFAD",
+"years": [
+{
+"year": 2004,
+"size": 140
+}
+]
+},
+{
+"name": "Roads constructed by MCC",
+"years": [
+{
+"year": 2000,
+"size": 346
+}
+]
+},
+{
+"name": "Roads constructed by WB",
+"years": [
+{
+"year": 2001,
+"size": 1152
+},
+{
+"year": 2003,
+"size": 18730
+},
+{
+"year": 2004,
+"size": 591
+},
+{
+"year": 2008,
+"size": 18000
+},
+{
+"year": 2011,
+"size": 1534
+},
+{
+"year": 2012,
+"size": 11.6
+}
+]
+}
+]
+},
+{
+"name": "Water systems constructed",
+"children": [
+{
+"name": "Water systems constructed by IFAD",
+"years": [
+{
+"year": 2016,
+"size": 4
+}
+]
+},
+{
+"name": "Water systems constructed by UNICEF",
+"years": [
+{
+"year": 2011,
+"size": 10
+},
+{
+"year": 2012,
+"size": 303
+}
+]
+},
+{
+"name": "Water systems constructed by USAID",
+"years": [
+{
+"year": 2013,
+"size": 30
+}
+]
+},
+{
+"name": "Water systems constructed by WB",
+"years": [
+{
+"year": 2000,
+"size": 2009
+},
+{
+"year": 2003,
+"size": 72904
+},
+{
+"year": 2004,
+"size": 185
+},
+{
+"year": 2010,
+"size": 73
+},
+{
+"year": 2015,
+"size": 23900000
+},
+{
+"year": 2016,
+"size": 600
+}
+]
+}
+]
+},
+{
+"name": "Wells/ Boreholes dug",
+"children": [
+{
+"name": "Wells/ Boreholes dug by AfDB",
+"years": [
+{
+"year": 2002,
+"size": 42
+}
+]
+},
+{
+"name": "Wells/ Boreholes dug by IFAD",
+"years": [
+{
+"year": 2004,
+"size": 40
+},
+{
+"year": 2016,
+"size": 113
+}
+]
+},
+{
+"name": "Wells/ Boreholes dug by UNICEF",
+"years": [
+{
+"year": 2011,
+"size": 194
+},
+{
+"year": 2012,
+"size": 197
+}
+]
+},
+{
+"name": "Wells/ Boreholes dug by USAID",
+"years": [
+{
+"year": 2013,
+"size": 131
+}
+]
+},
+{
+"name": "Wells/ Boreholes dug by WB",
+"years": [
+{
+"year": 2000,
+"size": 3898
+},
+{
+"year": 2003,
+"size": 2780
+},
+{
+"year": 2004,
+"size": 1147
+},
+{
+"year": 2011,
+"size": 1676
+},
+{
+"year": 2016,
+"size": 400
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Goods distributed",
+"children": [
+{
+"name": "Agricultural materials distributed",
+"children": [
+{
+"name": "Farmers receiving plants/ seeds",
+"children": [
+{
+"name": "Farmers receiving plants/ seeds by DFID",
+"years": [
+{
+"year": 2015,
+"size": 67
+}
+]
+},
+{
+"name": "Farmers receiving plants/ seeds by IFAD",
+"years": [
+{
+"year": 2005,
+"size": 154233
+}
+]
+},
+{
+"name": "Farmers receiving plants/ seeds by WB",
+"years": [
+{
+"year": 2007,
+"size": 5328900
+}
+]
+}
+]
+},
+{
+"name": "Farming materials distributed",
+"children": [
+{
+"name": "Farming materials distributed by IFAD",
+"years": [
+{
+"year": 2016,
+"size": 60770
+}
+]
+},
+{
+"name": "Farming materials distributed by WB",
+"years": [
+{
+"year": 2001,
+"size": 220
+},
+{
+"year": 2003,
+"size": 6
+},
+{
+"year": 2004,
+"size": 425
+},
+{
+"year": 2007,
+"size": 3
+}
+]
+}
+]
+},
+{
+"name": "Fertilizer distributed",
+"children": [
+{
+"name": "Fertilizer distributed by WB",
+"years": [
+{
+"year": 2011,
+"size": 134000
+}
+]
+}
+]
+},
+{
+"name": "Livestock distributed",
+"children": [
+{
+"name": "Livestock distributed by IFAD",
+"years": [
+{
+"year": 2004,
+"size": 17972
+}
+]
+}
+]
+},
+{
+"name": "Livestock materials distributed",
+"children": [
+{
+"name": "Livestock materials distributed by IFAD",
+"years": [
+{
+"year": 2004,
+"size": 520
+}
+]
+}
+]
+},
+{
+"name": "Planting materials distributed",
+"children": [
+{
+"name": "Planting materials distributed by IFAD",
+"years": [
+{
+"year": 2005,
+"size": 123679
+},
+{
+"year": 2014,
+"size": 187275
+}
+]
+},
+{
+"name": "Planting materials distributed by WB",
+"years": [
+{
+"year": 2003,
+"size": 200
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Other goods distributed",
+"children": [
+{
+"name": "Education materials distributed",
+"children": [
+{
+"name": "Education materials distributed by IFAD",
+"years": [
+{
+"year": 2014,
+"size": 80073
+},
+{
+"year": 2016,
+"size": 12885
+}
+]
+},
+{
+"name": "Education materials distributed by WFP",
+"years": [
+{
+"year": 2010,
+"size": 522961
+}
+]
+}
+]
+},
+{
+"name": "Vehicles distributed",
+"children": [
+{
+"name": "Vehicles distributed by UNICEF",
+"years": [
+{
+"year": 2012,
+"size": 46
+}
+]
+},
+{
+"name": "Vehicles distributed by USAID",
+"years": [
+{
+"year": 2014,
+"size": 3
+}
+]
+},
+{
+"name": "Vehicles distributed by WB",
+"years": [
+{
+"year": 2004,
+"size": 21
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Research and policy",
+"children": [
+{
+"name": "Policy-oriented developments",
+"children": [
+{
+"name": "Coordination groups formed",
+"children": [
+{
+"name": "Coordination groups formed by UNDP",
+"years": [
+{
+"year": 2010,
+"size": 3
+}
+]
+},
+{
+"name": "Coordination groups formed by WB",
+"years": [
+{
+"year": 2008,
+"size": 1
+}
+]
+}
+]
+},
+{
+"name": "Education groups formed",
+"children": [
+{
+"name": "Education groups formed by IFAD",
+"years": [
+{
+"year": 2005,
+"size": 7503
+}
+]
+},
+{
+"name": "Education groups formed by WB",
+"years": [
+{
+"year": 2007,
+"size": 1
+}
+]
+}
+]
+},
+{
+"name": "Management committees formed",
+"children": [
+{
+"name": "Management committees formed by UNDP",
+"years": [
+{
+"year": 2010,
+"size": 60
+}
+]
+},
+{
+"name": "Management committees formed by USAID",
+"years": [
+{
+"year": 2014,
+"size": 1
+}
+]
+},
+{
+"name": "Management committees formed by WB",
+"years": [
+{
+"year": 2000,
+"size": 171
+},
+{
+"year": 2003,
+"size": 3154
+},
+{
+"year": 2007,
+"size": 300
+},
+{
+"year": 2009,
+"size": 48
+},
+{
+"year": 2011,
+"size": 626
+}
+]
+}
+]
+},
+{
+"name": "Partnerships formed",
+"children": [
+{
+"name": "Partnerships formed by UNDP",
+"years": [
+{
+"year": 2010,
+"size": 32
+}
+]
+}
+]
+},
+{
+"name": "Policies formed",
+"children": [
+{
+"name": "Policies formed by AfDB",
+"years": [
+{
+"year": 2016,
+"size": 41
+}
+]
+},
+{
+"name": "Policies formed by DFID",
+"years": [
+{
+"year": 2012,
+"size": 1
+}
+]
+},
+{
+"name": "Policies formed by UNDP",
+"years": [
+{
+"year": 2010,
+"size": 60
+}
+]
+},
+{
+"name": "Policies formed by USAID",
+"years": [
+{
+"year": 2000,
+"size": 1
+},
+{
+"year": 2013,
+"size": 1
+},
+{
+"year": 2014,
+"size": 1
+}
+]
+},
+{
+"name": "Policies formed by WB",
+"years": [
+{
+"year": 2000,
+"size": 1
+},
+{
+"year": 2003,
+"size": 30
+},
+{
+"year": 2004,
+"size": 1
+},
+{
+"year": 2006,
+"size": 2
+},
+{
+"year": 2009,
+"size": 19
+},
+{
+"year": 2011,
+"size": 30
+},
+{
+"year": 2016,
+"size": 2
+}
+]
+}
+]
+},
+{
+"name": "Trade groups formed",
+"children": [
+{
+"name": "Trade groups formed by AfDB",
+"years": [
+{
+"year": 2016,
+"size": 57
+}
+]
+},
+{
+"name": "Trade groups formed by IFAD",
+"years": [
+{
+"year": 2005,
+"size": 9820
+},
+{
+"year": 2008,
+"size": 18
+},
+{
+"year": 2014,
+"size": 49
+}
+]
+},
+{
+"name": "Trade groups formed by USAID",
+"years": [
+{
+"year": 2013,
+"size": 1
+}
+]
+},
+{
+"name": "Trade groups formed by WB",
+"years": [
+{
+"year": 2007,
+"size": 1
+},
+{
+"year": 2009,
+"size": 300
+},
+{
+"year": 2011,
+"size": 106
+},
+{
+"year": 2016,
+"size": 3
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Research conducted",
+"children": [
+{
+"name": "Areas mapped",
+"children": [
+{
+"name": "Areas mapped by AfDB",
+"years": [
+{
+"year": 2016,
+"size": 1000
+}
+]
+},
+{
+"name": "Areas mapped by WB",
+"years": [
+{
+"year": 2004,
+"size": 5
+},
+{
+"year": 2006,
+"size": 5
+},
+{
+"year": 2011,
+"size": 3396
+}
+]
+}
+]
+},
+{
+"name": "Studies conducted",
+"children": [
+{
+"name": "Studies conducted by AfDB",
+"years": [
+{
+"year": 2016,
+"size": 479
+}
+]
+},
+{
+"name": "Studies conducted by IFAD",
+"years": [
+{
+"year": 2008,
+"size": 53
+}
+]
+},
+{
+"name": "Studies conducted by USAID",
+"years": [
+{
+"year": 2008,
+"size": 1
+},
+{
+"year": 2014,
+"size": 109
+}
+]
+},
+{
+"name": "Studies conducted by WB",
+"years": [
+{
+"year": 2000,
+"size": 95895
+},
+{
+"year": 2003,
+"size": 137
+},
+{
+"year": 2004,
+"size": 1
+},
+{
+"year": 2006,
+"size": 1
+},
+{
+"year": 2007,
+"size": 56
+},
+{
+"year": 2011,
+"size": 10
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Services provided",
+"children": [
+{
+"name": "Funding allocated",
+"children": [
+{
+"name": "Businesses funded",
+"children": [
+{
+"name": "Businesses funded by USAID",
+"years": [
+{
+"year": 2013,
+"size": 1239
+}
+]
+}
+]
+},
+{
+"name": "Grants awarded",
+"children": [
+{
+"name": "Grants awarded by AfDB",
+"years": [
+{
+"year": 2016,
+"size": 24
+}
+]
+},
+{
+"name": "Grants awarded by IFAD",
+"years": [
+{
+"year": 2006,
+"size": 10251
+}
+]
+},
+{
+"name": "Grants awarded by USAID",
+"years": [
+{
+"year": 2014,
+"size": 63
+}
+]
+},
+{
+"name": "Grants awarded by WB",
+"years": [
+{
+"year": 2011,
+"size": 86
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Trainings conducted",
+"children": [
+{
+"name": "Capacity-building trainings conducted",
+"children": [
+{
+"name": "Business professionals trained",
+"children": [
+{
+"name": "Business professionals trained by IFAD",
+"years": [
+{
+"year": 2006,
+"size": 12243
+},
+{
+"year": 2008,
+"size": 11087
+},
+{
+"year": 2015,
+"size": 52572
+},
+{
+"year": 2016,
+"size": 26162
+}
+]
+},
+{
+"name": "Business professionals trained by USAID",
+"years": [
+{
+"year": 2013,
+"size": 2332
+}
+]
+},
+{
+"name": "Business professionals trained by WB",
+"years": [
+{
+"year": 2004,
+"size": 3309
+},
+{
+"year": 2011,
+"size": 1210
+}
+]
+}
+]
+},
+{
+"name": "Educators trained",
+"children": [
+{
+"name": "Educators trained by IFAD",
+"years": [
+{
+"year": 2015,
+"size": 13
+}
+]
+},
+{
+"name": "Educators trained by UNDP",
+"years": [
+{
+"year": 2010,
+"size": 37
+}
+]
+},
+{
+"name": "Educators trained by WB",
+"years": [
+{
+"year": 2008,
+"size": 36120
+}
+]
+}
+]
+},
+{
+"name": "Leadership trainees trained",
+"children": [
+{
+"name": "Leadership trainees trained by AfDB",
+"years": [
+{
+"year": 2016,
+"size": 271
+}
+]
+},
+{
+"name": "Leadership trainees trained by IFAD",
+"years": [
+{
+"year": 2015,
+"size": 2712
+}
+]
+}
+]
+},
+{
+"name": "People trained in management",
+"children": [
+{
+"name": "People trained in management by UNDP",
+"years": [
+{
+"year": 2010,
+"size": 734
+}
+]
+},
+{
+"name": "People trained in management by WB",
+"years": [
+{
+"year": 2001,
+"size": 350
+},
+{
+"year": 2003,
+"size": 6
+},
+{
+"year": 2004,
+"size": 2965
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Educational trainings conducted",
+"children": [
+{
+"name": "Other individuals trained",
+"children": [
+{
+"name": "Other individuals trained by Global Fund",
+"years": [
+{
+"year": 2012,
+"size": 59
+}
+]
+},
+{
+"name": "Other individuals trained by IFAD",
+"years": [
+{
+"year": 2016,
+"size": 80452
+}
+]
+},
+{
+"name": "Other individuals trained by JICA",
+"years": [
+{
+"year": 2014,
+"size": 30
+},
+{
+"year": 2015,
+"size": 50
+}
+]
+},
+{
+"name": "Other individuals trained by WB",
+"years": [
+{
+"year": 2001,
+"size": 951
+},
+{
+"year": 2003,
+"size": 699
+},
+{
+"year": 2007,
+"size": 1512
+},
+{
+"year": 2008,
+"size": 240000
+},
+{
+"year": 2009,
+"size": 127
+},
+{
+"year": 2011,
+"size": 1792
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Production-oriented trainings conducted",
+"children": [
+{
+"name": "Farmers trained in commerce",
+"children": [
+{
+"name": "Farmers trained in commerce by AfDB",
+"years": [
+{
+"year": 2016,
+"size": 331
+}
+]
+},
+{
+"name": "Farmers trained in commerce by MCC",
+"years": [
+{
+"year": 2009,
+"size": 68172
+}
+]
+},
+{
+"name": "Farmers trained in commerce by USAID",
+"years": [
+{
+"year": 2000,
+"size": 1
+}
+]
+},
+{
+"name": "Farmers trained in commerce by WB",
+"years": [
+{
+"year": 2007,
+"size": 326
+}
+]
+}
+]
+},
+{
+"name": "Farmers trained in commodity",
+"children": [
+{
+"name": "Farmers trained in commodity by IFAD",
+"years": [
+{
+"year": 2004,
+"size": 150
+}
+]
+},
+{
+"name": "Farmers trained in commodity by USAID",
+"years": [
+{
+"year": 2013,
+"size": 60
+}
+]
+},
+{
+"name": "Farmers trained in commodity by WB",
+"years": [
+{
+"year": 2003,
+"size": 20
+}
+]
+}
+]
+},
+{
+"name": "Farmers trained in new crops",
+"children": [
+{
+"name": "Farmers trained in new crops by AfDB",
+"years": [
+{
+"year": 2016,
+"size": 6
+}
+]
+},
+{
+"name": "Farmers trained in new crops by IFAD",
+"years": [
+{
+"year": 2014,
+"size": 1039
+}
+]
+}
+]
+},
+{
+"name": "Farmers trained in technique",
+"children": [
+{
+"name": "Farmers trained in technique by AfDB",
+"years": [
+{
+"year": 2016,
+"size": 1265
+}
+]
+},
+{
+"name": "Farmers trained in technique by IFAD",
+"years": [
+{
+"year": 2014,
+"size": 90
+}
+]
+},
+{
+"name": "Farmers trained in technique by JICA",
+"years": [
+{
+"year": 2014,
+"size": 1000
+}
+]
+},
+{
+"name": "Farmers trained in technique by USAID",
+"years": [
+{
+"year": 2014,
+"size": 31700
+}
+]
+},
+{
+"name": "Farmers trained in technique by WB",
+"years": [
+{
+"year": 2003,
+"size": 1200
+},
+{
+"year": 2009,
+"size": 80
+}
+]
+}
+]
+},
+{
+"name": "Other farmers trained",
+"children": [
+{
+"name": "Other farmers trained by AfDB",
+"years": [
+{
+"year": 2016,
+"size": 41
+}
+]
+},
+{
+"name": "Other farmers trained by IFAD",
+"years": [
+{
+"year": 2004,
+"size": 3600
+},
+{
+"year": 2005,
+"size": 1500
+},
+{
+"year": 2006,
+"size": 6463
+}
+]
+},
+{
+"name": "Other farmers trained by USAID",
+"years": [
+{
+"year": 2000,
+"size": 14
+},
+{
+"year": 2013,
+"size": 24
+},
+{
+"year": 2014,
+"size": 60
+}
+]
+},
+{
+"name": "Other farmers trained by WB",
+"years": [
+{
+"year": 2007,
+"size": 1300
+},
+{
+"year": 2009,
+"size": 500
+},
+{
+"year": 2011,
+"size": 1676
+}
+]
+}
+]
+},
+{
+"name": "Technical trainees trained",
+"children": [
+{
+"name": "Technical trainees trained by IFAD",
+"years": [
+{
+"year": 2008,
+"size": 10687
+},
+{
+"year": 2015,
+"size": 92622
+},
+{
+"year": 2016,
+"size": 10370
+}
+]
+},
+{
+"name": "Technical trainees trained by UNDP",
+"years": [
+{
+"year": 2005,
+"size": 9
+}
+]
+},
+{
+"name": "Technical trainees trained by UNICEF",
+"years": [
+{
+"year": 2012,
+"size": 4500
+}
+]
+},
+{
+"name": "Technical trainees trained by USAID",
+"years": [
+{
+"year": 2013,
+"size": 136859
+},
+{
+"year": 2014,
+"size": 2034
+}
+]
+},
+{
+"name": "Technical trainees trained by WB",
+"years": [
+{
+"year": 2003,
+"size": 554
+},
+{
+"year": 2004,
+"size": 6
+},
+{
+"year": 2011,
+"size": 1606
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}

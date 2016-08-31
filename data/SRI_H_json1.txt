@@ -1,0 +1,762 @@
+{
+"name": "Total goods and services delivered",
+"children": [
+{
+"name": "Goods constructed",
+"children": [
+{
+"name": "Health goods constructed",
+"children": [
+{
+"name": "Latrines constructed",
+"children": [
+{
+"name": "Latrines constructed by WB",
+"years": [
+{
+"year": 2010,
+"size": 45660
+},
+{
+"year": 2011,
+"size": 1669
+},
+{
+"year": 2014,
+"size": 956
+}
+]
+}
+]
+},
+{
+"name": "Toilets constructed",
+"children": [
+{
+"name": "Toilets constructed by IFAD",
+"years": [
+{
+"year": 2006,
+"size": 50
+},
+{
+"year": 2012,
+"size": 55
+}
+]
+},
+{
+"name": "Toilets constructed by WB",
+"years": [
+{
+"year": 2011,
+"size": 6934
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Infrastructure built",
+"children": [
+{
+"name": "Drinking water systems constructed",
+"children": [
+{
+"name": "Drinking water systems constructed by IFAD",
+"years": [
+{
+"year": 2016,
+"size": 20
+}
+]
+},
+{
+"name": "Drinking water systems constructed by WB",
+"years": [
+{
+"year": 2005,
+"size": 1301
+},
+{
+"year": 2011,
+"size": 6127
+}
+]
+}
+]
+},
+{
+"name": "Electrification infrastructure installed",
+"children": [
+{
+"name": "Electrification infrastructure installed by WB",
+"years": [
+{
+"year": 2016,
+"size": 21.3
+}
+]
+}
+]
+},
+{
+"name": "Health clinics constructed",
+"children": [
+{
+"name": "Health clinics constructed by Global Fund",
+"years": [
+{
+"year": 2011,
+"size": 3507
+}
+]
+}
+]
+},
+{
+"name": "Housing constructed",
+"children": [
+{
+"name": "Housing constructed by WB",
+"years": [
+{
+"year": 2011,
+"size": 8350
+},
+{
+"year": 2016,
+"size": 219
+}
+]
+}
+]
+},
+{
+"name": "Other facilities constructed",
+"children": [
+{
+"name": "Other facilities constructed by FAO",
+"years": [
+{
+"year": 2014,
+"size": 486
+}
+]
+},
+{
+"name": "Other facilities constructed by IFAD",
+"years": [
+{
+"year": 2016,
+"size": 5
+}
+]
+},
+{
+"name": "Other facilities constructed by UNDP",
+"years": [
+{
+"year": 2000,
+"size": 2
+}
+]
+},
+{
+"name": "Other facilities constructed by WB",
+"years": [
+{
+"year": 2003,
+"size": 4
+},
+{
+"year": 2005,
+"size": 379
+},
+{
+"year": 2015,
+"size": 325
+}
+]
+}
+]
+},
+{
+"name": "Sanitation facilities constructed",
+"children": [
+{
+"name": "Sanitation facilities constructed by WB",
+"years": [
+{
+"year": 2016,
+"size": 63100
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Goods distributed",
+"children": [
+{
+"name": "Medical materials distributed",
+"children": [
+{
+"name": "Bednets distributed",
+"children": [
+{
+"name": "Bednets distributed by Global Fund",
+"years": [
+{
+"year": 2008,
+"size": 140000
+},
+{
+"year": 2010,
+"size": 106750
+}
+]
+}
+]
+},
+{
+"name": "Condoms distributed",
+"children": [
+{
+"name": "Condoms distributed by Global Fund",
+"years": [
+{
+"year": 2015,
+"size": 806409
+}
+]
+}
+]
+},
+{
+"name": "Medical equipment distributed",
+"children": [
+{
+"name": "Medical equipment distributed by Global Fund",
+"years": [
+{
+"year": 2008,
+"size": 580
+},
+{
+"year": 2011,
+"size": 19
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Other goods distributed",
+"children": [
+{
+"name": "Education materials distributed",
+"children": [
+{
+"name": "Education materials distributed by Global Fund",
+"years": [
+{
+"year": 2010,
+"size": 3054350
+}
+]
+}
+]
+},
+{
+"name": "Tech goods distributed",
+"children": [
+{
+"name": "Tech goods distributed by UNDP",
+"years": [
+{
+"year": 2015,
+"size": 1211
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Research and policy",
+"children": [
+{
+"name": "Policy-oriented developments",
+"children": [
+{
+"name": "Coordination groups formed",
+"children": [
+{
+"name": "Coordination groups formed by IFAD",
+"years": [
+{
+"year": 2016,
+"size": 1828
+}
+]
+}
+]
+},
+{
+"name": "Development organizations formed",
+"children": [
+{
+"name": "Development organizations formed by UNDP",
+"years": [
+{
+"year": 2000,
+"size": 28
+}
+]
+},
+{
+"name": "Development organizations formed by WB",
+"years": [
+{
+"year": 2005,
+"size": 1743
+}
+]
+}
+]
+},
+{
+"name": "Management committees formed",
+"children": [
+{
+"name": "Management committees formed by WB",
+"years": [
+{
+"year": 2004,
+"size": 39
+}
+]
+}
+]
+},
+{
+"name": "Partnerships formed",
+"children": [
+{
+"name": "Partnerships formed by UNDP",
+"years": [
+{
+"year": 2016,
+"size": 13
+}
+]
+},
+{
+"name": "Partnerships formed by WB",
+"years": [
+{
+"year": 2001,
+"size": 268
+}
+]
+}
+]
+},
+{
+"name": "Policies formed",
+"children": [
+{
+"name": "Policies formed by WB",
+"years": [
+{
+"year": 2004,
+"size": 39
+},
+{
+"year": 2010,
+"size": 97
+},
+{
+"year": 2014,
+"size": 4
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Research conducted",
+"children": [
+{
+"name": "Areas mapped",
+"children": [
+{
+"name": "Areas mapped by IFAD",
+"years": [
+{
+"year": 2012,
+"size": 3
+}
+]
+}
+]
+},
+{
+"name": "Studies conducted",
+"children": [
+{
+"name": "Studies conducted by FAO",
+"years": [
+{
+"year": 2014,
+"size": 146
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Services provided",
+"children": [
+{
+"name": "Funding allocated",
+"children": [
+{
+"name": "Grants awarded",
+"children": [
+{
+"name": "Grants awarded by IFAD",
+"years": [
+{
+"year": 2006,
+"size": 30
+}
+]
+},
+{
+"name": "Grants awarded by UNDP",
+"years": [
+{
+"year": 2000,
+"size": 139
+}
+]
+},
+{
+"name": "Grants awarded by WB",
+"years": [
+{
+"year": 2005,
+"size": 18957
+},
+{
+"year": 2011,
+"size": 2000
+},
+{
+"year": 2015,
+"size": 0
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Medical services provided",
+"children": [
+{
+"name": "People receiving HIV treatments",
+"children": [
+{
+"name": "People receiving HIV treatments by Global Fund",
+"years": [
+{
+"year": 2015,
+"size": 12065
+}
+]
+}
+]
+},
+{
+"name": "People receiving Malaria treatments",
+"children": [
+{
+"name": "People receiving Malaria treatments by Global Fund",
+"years": [
+{
+"year": 2008,
+"size": 8422088
+},
+{
+"year": 2011,
+"size": 1576508
+}
+]
+}
+]
+},
+{
+"name": "People receiving medical care",
+"children": [
+{
+"name": "People receiving medical care by Global Fund",
+"years": [
+{
+"year": 2011,
+"size": 5
+},
+{
+"year": 2015,
+"size": 10000
+}
+]
+},
+{
+"name": "People receiving medical care by WB",
+"years": [
+{
+"year": 2016,
+"size": 6360407
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Trainings conducted",
+"children": [
+{
+"name": "Capacity-building trainings conducted",
+"children": [
+{
+"name": "Leadership trainees trained",
+"children": [
+{
+"name": "Leadership trainees trained by DFATD",
+"years": [
+{
+"year": 2013,
+"size": 257
+}
+]
+}
+]
+},
+{
+"name": "People trained in management",
+"children": [
+{
+"name": "People trained in management by UNDP",
+"years": [
+{
+"year": 2015,
+"size": 170
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Educational trainings conducted",
+"children": [
+{
+"name": "Other individuals trained",
+"children": [
+{
+"name": "Other individuals trained by FAO",
+"years": [
+{
+"year": 2014,
+"size": 13
+}
+]
+},
+{
+"name": "Other individuals trained by Global Fund",
+"years": [
+{
+"year": 2005,
+"size": 6493
+}
+]
+},
+{
+"name": "Other individuals trained by WB",
+"years": [
+{
+"year": 2003,
+"size": 1700
+},
+{
+"year": 2005,
+"size": 6300
+}
+]
+}
+]
+},
+{
+"name": "People trained in health practices",
+"children": [
+{
+"name": "People trained in health practices by Global Fund",
+"years": [
+{
+"year": 2005,
+"size": 300
+},
+{
+"year": 2008,
+"size": 13600000
+},
+{
+"year": 2010,
+"size": 69976
+}
+]
+},
+{
+"name": "People trained in health practices by WB",
+"years": [
+{
+"year": 2004,
+"size": 27000
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Medical practice trainings conducted",
+"children": [
+{
+"name": "Other health professionals trained",
+"children": [
+{
+"name": "Other health professionals trained by Global Fund",
+"years": [
+{
+"year": 2005,
+"size": 285
+}
+]
+}
+]
+},
+{
+"name": "People trained in HIV treatment",
+"children": [
+{
+"name": "People trained in HIV treatment by Global Fund",
+"years": [
+{
+"year": 2015,
+"size": 19300
+}
+]
+}
+]
+},
+{
+"name": "People trained in Malaria treatments",
+"children": [
+{
+"name": "People trained in Malaria treatments by Global Fund",
+"years": [
+{
+"year": 2008,
+"size": 21320
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "Production-oriented trainings conducted",
+"children": [
+{
+"name": "Technical trainees trained",
+"children": [
+{
+"name": "Technical trainees trained by DFATD",
+"years": [
+{
+"year": 2013,
+"size": 176
+},
+{
+"year": 2014,
+"size": 219
+}
+]
+},
+{
+"name": "Technical trainees trained by Global Fund",
+"years": [
+{
+"year": 2005,
+"size": 632
+},
+{
+"year": 2010,
+"size": 7786
+}
+]
+},
+{
+"name": "Technical trainees trained by UNDP",
+"years": [
+{
+"year": 2016,
+"size": 156
+}
+]
+},
+{
+"name": "Technical trainees trained by WB",
+"years": [
+{
+"year": 2014,
+"size": 37
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
